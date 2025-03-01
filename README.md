@@ -1,0 +1,3 @@
+This repository demonstrates the implementation of the Chi-Squared Test of Independence using Python and scipy.stats. It includes the creation of a contingency table with simulated categorical data, followed by performing a Chi-Squared test to determine whether there is a significant association between two variables. The script calculates the Chi-Squared statistic, p-value, degrees of freedom, and expected frequencies, providing an intuitive example for statistical hypothesis testing.
+
+Perfect for anyone looking to understand or implement Chi-Squared tests for analyzing categorical data in Python.
